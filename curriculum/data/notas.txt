@@ -1,0 +1,23 @@
+
+
+
+-- como se ve en la imagen de la carpeta data,
+el home va a consistir en lo siguiente: 
+    1 - header con el logo a la izquierda, 
+    luego tres botones (contacto, github, otro)
+
+    2 - un h1 con el cartel bienvenido
+
+    3 - una carta de presentacion (un p) en el app
+
+    4 - un h2 con la palabra proyectos:
+        - proyecto 1
+        - proyecto 2
+        - proyecto 3
+
+        cuando presione sobre un proyecto, el p de la carta de presentacion,
+        debera cambiar su estado y mostrarme la info del proyecto con su link
+
+
+
+    5 - un footer plano que solo diga el anio y nombre.
